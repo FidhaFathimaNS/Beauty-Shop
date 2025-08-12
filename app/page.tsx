@@ -11,7 +11,7 @@ export default function Home() {
       description: "Illuminating serum with rose extracts"
     },
     {
-      id: 2,
+      id: 4,
       name: "Natural Lip Tint",
       price: 24.99,
       image: "/placeholder.jpg",
