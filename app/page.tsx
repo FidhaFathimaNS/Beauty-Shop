@@ -18,7 +18,7 @@ export default function Home() {
       description: "Subtle color with nourishing ingredients"
     },
     {
-      id: 3,
+      id: 4,
       name: "Vitamin C Serum",
       price: 59.99,
       image: "/placeholder.jpg",
